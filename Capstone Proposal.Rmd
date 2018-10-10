@@ -1,0 +1,45 @@
+---
+title: "Capstone Proposal"
+author: "J. Handzel"
+date: "October 10, 2018"
+output: html_document
+---
+
+---
+title: "Springboard Capstone - Cancer Cost Trends for Clinical Trial Selection"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Using NIH treatment costs allows for the optimal selection of cancer targets in clinical trials 
+
+
+Numerous Biotech companies are involved in bringing cancer treatments to market.   The process is costly and time consuming.    Given a novel a target drug,  what are the long term treatment costs for various cancers that could provide guidance for selecting target cancers with which to enter into clinical trials?   
+
+A clinical trial is a research study conducted on humans with the goal of answering specific questions about new treatments. Clinical trials are used to determine whether new drugs are both safe and effective. Clinical trials are the fastest, safest and accepted way to find treatments that help people.
+
+Clinical trials are broken down into different phases. During a trial, more and more information is gained about the potential drug, its risks and how well it may or may not work, along with aspects related to safety and quality of life.  As the phases progresses more people are added to the study.  Cancer (Oncology) clinical trials are very expensive each costing upwards of $50M.
+
+The NIH National Cancer Institute provides datasets on National Costs for Cancer Care as well as data on prevalence and costs per patient.  The datasets are available to the public.  These are provided at the following web sites:
+
+<https://costprojections.cancer.gov/expenditures.html>
+
+<https://costprojections.cancer.gov/cancer.prevalance.html>
+
+<https://costprojections.cancer.gov/annual.costs.html>
+
+METHOD
+
+The cancer treatment costs by year and prevalence rates are used to determine target cancers treatment costs. Treatment costs are broken out to show costs in the first year of diagnosis, costs of yearly ongoing treatment, and costs in the last year of life.  Using this data and trend assumptions, a ranking can be provide for guidance for selecting cancer targets that would primarily affect the second category, yearly ongoing treatment costs. 
+
+
+title:	Cancer Cost Trends for Clinical Trial Selection 
+
+author:	   Janet Handzel 
+
+date:	     10/7/2018 
+
+output:  Code and Slide Presentation
