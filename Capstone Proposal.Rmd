@@ -33,7 +33,7 @@ The NIH National Cancer Institute provides datasets on National Costs for Cancer
 
 METHOD
 
-The cancer treatment costs by year and prevalence rates are used to determine target cancers treatment costs. Treatment costs are broken out to show costs in the first year of diagnosis, costs of yearly ongoing treatment, and costs in the last year of life.  Using this data and trend assumptions, a ranking can be provide for guidance for selecting cancer targets that would primarily affect the second category, yearly ongoing treatment costs. 
+The cancer treatment costs by year and prevalence rates are used to determine target cancers treatment costs. Treatment costs are broken out to show costs in the first year of diagnosis, costs of yearly ongoing treatment, and costs in the last year of life.  Using this data and trend assumptions based on treatment, a ranking can be provide for guidance for selecting cancer targets that would primarily affect the second category, yearly ongoing treatment costs. 
 
 
 title:	Cancer Cost Trends for Clinical Trial Selection 
